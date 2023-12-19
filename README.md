@@ -50,6 +50,7 @@ The server will start at http://localhost:4000.
 
 Database Schema
 ER Diagram with 3 tables:
+The ER diagram can we seen in the Repository for Better Understanding
 
 Users Table:
 
